@@ -1,3 +1,5 @@
+# Credit to AKASHKADEL
+
 from torch import nn, Tensor
 
 class Generator(nn.Module):
